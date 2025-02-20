@@ -17,6 +17,7 @@ import kopi from './kopi.png'
 import lineCoffe from './line-coffe.png'
 import linkedin from './linkedin.png'
 import profilepic from './profile-pic.png'
+import plasticbg from './plasticbg.png'
 
 export const assets = {
     medium,
@@ -37,5 +38,6 @@ export const assets = {
     kopi,
     lineCoffe,
     linkedin,
-    profilepic
+    profilepic,
+    plasticbg
 }
