@@ -1,0 +1,70 @@
+.saweria{
+    background-color: #f1efe1;
+    position: relative;
+    height: 180px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;     
+    text-align: center;
+}
+.ico{
+    position: relative;
+    display: flex;
+}
+.coffe1{
+    top: 50px;
+    right: 100px;
+    position: inherit;
+}
+.coffe1, .coffe2{
+    position: absolute;
+}
+.coffe1 .bg{
+    width: 100px;
+    transform: rotate(-30deg);
+}
+.coffe1 .lin{
+    width: 125px;
+    position: absolute;
+    left: -10px;
+    top: -5px;
+    transform: rotate(-15deg);
+}
+.coffe2{
+    position: inherit;
+    top: -60px;
+    right: -130px;
+}
+.coffe2 .bg{
+    position: absolute;
+    width: 60px;
+    top: 5px;
+    left: 10px;
+    transform: rotate(20deg);
+}
+.coffe2 .lin{
+    position: absolute;
+    width: 80px;
+    transform: rotate(10deg);
+}
+.cta{
+    width: 230px;
+    color: black;
+    font-weight: 500;
+}
+.to-saweria{
+    display: flex;
+    justify-content: space-around;
+    border: 2px solid black;
+    align-items: center;
+    margin: 10px 30px;
+    padding: 5px 30px;
+    cursor: pointer;
+}
+.to-saweria:hover{
+    background-color: #FFDE59;
+}
+.to-saweria img{
+    width: 23px;
+}

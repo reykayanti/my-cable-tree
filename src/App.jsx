@@ -2,6 +2,7 @@ import './App.css'
 import Header from './components/Header/Header'
 import Saweria from './components/Saweria/Saweria'
 import Tiktok from './components/Tiktok/Tiktok'
+import Promotion from './components/Promotion/Promotion'
 
 function App() {
 
@@ -12,7 +13,7 @@ function App() {
       </div>
       <Tiktok/>
       <Saweria/>
-      <br />
+      <Promotion/>
         <br />
         <br />
         <br />
