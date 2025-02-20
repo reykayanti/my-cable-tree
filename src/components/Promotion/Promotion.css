@@ -1,0 +1,26 @@
+.promotion{
+    height: 220px;
+    background-color: white;
+    background-image: url('../../assets/green-background.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    color: white;
+    padding: 50px;
+}
+.promotion p{
+    margin: 40px;
+    font-weight: 300;
+}
+.promotion .ll{
+    width: 2px;
+    height: 20px;
+    background-color: white;
+}
+.promotion .tq{
+    margin-top: 40px;
+    font-weight: 300
+}
