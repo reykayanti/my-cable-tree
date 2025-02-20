@@ -4,8 +4,9 @@ import Saweria from './components/Saweria/Saweria'
 import Tiktok from './components/Tiktok/Tiktok'
 import Promotion from './components/Promotion/Promotion'
 
-function App() {
 
+function App() {
+  
   return (
     <div className='app'>
       <div className="green-background">
@@ -14,18 +15,9 @@ function App() {
       <Tiktok/>
       <Saweria/>
       <Promotion/>
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
+        <div className="footer">
+        © 2025
+        </div>
     </div>
   )
 }

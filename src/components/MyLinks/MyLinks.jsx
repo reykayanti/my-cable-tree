@@ -14,7 +14,7 @@ const MyLinks = () => {
   ];
 
   return (
-    <div className='my-link'>
+    <div className='my-link' data-aos="fade-up" data-aos-duration="1300" >
         <div className="icon-fly">
           <img src={assets.star} alt="" />
         </div>

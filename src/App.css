@@ -20,7 +20,12 @@
     width: 100%;
     padding: 0;
 }
-
+.footer{
+  padding: 20px;
+  background-image: url('assets/plasticbg.png');
+  color: white;
+  font-size: 12px;
+}
 @keyframes logo-spin {
   from {
     transform: rotate(0deg);
