@@ -1,0 +1,29 @@
+.tiktok{
+    height: 430px;
+    background-image: url('../../assets/plasticbg.png');
+    display: flex;
+    justify-content: space-around;
+    /* background-repeat: ; */
+}
+.capt p{
+    margin: 50px 20px 50px 30px;
+    color: white;
+    font-weight: 500;
+    font-size: 27px;
+    text-align: left;
+}
+.capt .checkout{
+    color: white;
+    margin-left: 20px;
+}
+.arrow-capt{
+    margin-top: 10px;
+    margin-left: -20px;
+    width: 80px;
+}
+.tiktok-preview img{
+    width: 230px;
+    margin-top: 50px;
+    margin-right: 20px;
+    box-shadow: 5px 5px 10px 2px rgba(0, 0, 0, 0.411);
+}

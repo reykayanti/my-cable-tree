@@ -12,12 +12,12 @@ import cofffe from './cofffe.png'
 import github from './github.png'
 import github2 from './github2.png'
 import ig from './ig.png'
-import IMG1970 from './IMG_1970.png'
 import kopi from './kopi.png'
 import lineCoffe from './line-coffe.png'
 import linkedin from './linkedin.png'
 import profilepic from './profile-pic.png'
 import plasticbg from './plasticbg.png'
+import tiktokimg from './tiktokimg.png'
 
 export const assets = {
     medium,
@@ -34,10 +34,10 @@ export const assets = {
     github,
     github2,
     ig,
-    IMG1970,
     kopi,
     lineCoffe,
     linkedin,
     profilepic,
-    plasticbg
+    plasticbg,
+    tiktokimg
 }
