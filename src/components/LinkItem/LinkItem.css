@@ -1,0 +1,13 @@
+.link-container{
+    height: 50px;
+    margin: 30px;
+    background-color: #D7D5C8;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px 2px rgba(0, 0, 0, 0.411);
+    display: flex;          
+    justify-content: center; 
+    align-items: center;     
+    text-align: center;
+    font-size: 14px;
+    font-weight: 500;
+}

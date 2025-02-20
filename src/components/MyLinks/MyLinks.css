@@ -1,0 +1,12 @@
+.my-link{
+    margin-top: 40px;
+}
+.icon-fly{
+    position: relative;
+}
+.icon-fly img{
+    width: 30px;
+    position: absolute;
+    right: 10px;
+    top: 200px;
+}

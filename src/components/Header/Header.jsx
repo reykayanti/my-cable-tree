@@ -1,6 +1,7 @@
 import React from 'react'
 import { assets } from '../../assets/assets'
 import './Header.css'
+import MyLink from '../MyLinks/MyLinks'
 
 const Header = () => {
   return (
@@ -20,8 +21,8 @@ const Header = () => {
             <div className="one"></div>
             <div className="two"></div>
             <div className="three"></div>
-
         </div>
+        <MyLink/>        
     </div>
   )
 }
