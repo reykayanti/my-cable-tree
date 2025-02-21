@@ -48,3 +48,9 @@
 .read-the-docs {
   color: #888;
 }
+
+@media screen and (max-width: 414px) {
+  .app{
+    width: 100%;
+  }
+}

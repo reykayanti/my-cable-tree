@@ -37,6 +37,10 @@
 }
 .icon-links img{
     width: 35px;
+    cursor: pointer;
+}
+.icon-links .instagram{
+    display: block;
 }
 .bio{
     padding: 10px 70px;
@@ -64,3 +68,13 @@
     height: 2px;
     background-color: white;
 }
+/* @media screen and (max-width: 414px) {
+    .profile img{
+        width: 200px;
+    }
+    .username{
+        font-size: 25px;  
+        top:130px;
+        right: 100px;  
+    }
+} */

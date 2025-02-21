@@ -34,7 +34,7 @@
 .coffe2{
     position: inherit;
     top: -60px;
-    right: -130px;
+    right: -120px;
 }
 .coffe2 .bg{
     position: absolute;
@@ -68,3 +68,7 @@
 .to-saweria img{
     width: 23px;
 }
+/* @media screen and (max-width: 414px) {
+   
+} */
+  
