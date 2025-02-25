@@ -20,10 +20,12 @@
     margin-top: 10px;
     margin-left: -20px;
     width: 80px;
+    cursor: pointer;
 }
 .tiktok-preview img{
     width: 230px;
     margin-top: 50px;
     margin-right: 20px;
     box-shadow: 5px 5px 10px 2px rgba(0, 0, 0, 0.411);
+    cursor: pointer;
 }
